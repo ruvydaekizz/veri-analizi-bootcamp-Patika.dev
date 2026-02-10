@@ -28,27 +28,5 @@ Proje Gereklilikleri
     - GitHub: Katılımcılar çalışmalarını kendi GitHub hesapları üzerinden private olarak paylaşıp deadline sonrası public hale getirebilirler. GitHub linklerini cohort üzerinden ilgili yere paylaşmaları beklenir.
     - Classroom Assignment: Tüm katılımcılar çalışmalarını Classroom üzerinden teslim eder.
 
-Projeden detaylar aşağıdaki gibidir:
-
-![1](https://github.com/user-attachments/assets/6a83877e-6627-4aae-8440-1d1995b34e48)
-
-![2](https://github.com/user-attachments/assets/0361088f-4ec5-441b-8ed6-138c8e924d36)
-
-![3](https://github.com/user-attachments/assets/35c926fc-d503-4f00-97ad-de2f86f2247c)
-
-![4](https://github.com/user-attachments/assets/c3be4c67-d345-42e8-a936-07cd20a64be7)
-
-![5](https://github.com/user-attachments/assets/c593f052-c761-4e71-b085-2315c3c78c4b)
-
-![6](https://github.com/user-attachments/assets/2408cc7b-ec04-4bac-9155-53299a62d6ae)
-
-![7](https://github.com/user-attachments/assets/ce97cda4-28d5-4507-a024-579c4fd8bc8d)
-
-![8](https://github.com/user-attachments/assets/024e1f66-1eec-4706-8790-ea0d13833da7)
-
-![9](https://github.com/user-attachments/assets/b4d80f9a-2bca-49f1-9cb9-953cbaa3f192)
-
-![10](https://github.com/user-attachments/assets/a0281f58-0592-4e82-a2ce-4b433c622062)
-
 
 Proje detaylarını incelemekten ve geri bildirim vermekten lütfen çekinmeyin! :) Değerli yorumlarınız çok kıymetli, teşekkürler :)
