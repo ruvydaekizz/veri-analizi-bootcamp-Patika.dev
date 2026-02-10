@@ -20,6 +20,12 @@ Bootcamp’in ikinci final projesidir. Rapor, ETRADE isimli örnek bir veri taba
 
 - İleri seviye analiz
 - Proje sunumu ve raporlama
+<img width="925" height="536" alt="1" src="https://github.com/user-attachments/assets/17c24436-3fc4-4737-91e9-32c218dcaf5b" />
+
+-------
+<img width="936" height="535" alt="2" src="https://github.com/user-attachments/assets/23957fd1-5fa0-4a49-ac25-dc56042e58dc" />
+
+
 
 ### Bootcamp Haftalık Görevler
 
