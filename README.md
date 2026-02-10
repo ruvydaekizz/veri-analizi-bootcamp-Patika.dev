@@ -1,6 +1,6 @@
 # Patika.dev - Kız Başına Veri Analizi Bootcamp 
 
-Bu repo, Patika.dev & Kız Başına tarafından düzenlenen **Veri Analizi Bootcamp** sürecinde gerçekleştirdiğim tüm ödevleri, projeleri ve final case çalışmalarını içermektedir.
+Bu repo, Patika.dev & Kız Başına tarafından düzenlenen **Veri Analizi Bootcamp** sürecinde gerçekleştirdiğim görevleri, projeleri ve final case çalışmalarını içermektedir.
 
 ## 📁 İçerik
 
@@ -20,6 +20,13 @@ Bootcamp’in ikinci final projesidir. Rapor, ETRADE isimli örnek bir veri taba
 
 - İleri seviye analiz
 - Proje sunumu ve raporlama
+- 
+<img width="925" height="536" alt="1" src="https://github.com/user-attachments/assets/955e9988-960e-4036-8675-1e8f21706052" />
+
+-----
+
+<img width="936" height="535" alt="2" src="https://github.com/user-attachments/assets/89255a6a-45e2-475e-9eb1-0e30348e5564" />
+
 
 ### Bootcamp Haftalık Görevler
 
@@ -30,15 +37,6 @@ Haftalık verilen görev ve alıştırmaları içeren dosyaları içerir.
 - Eksik veri analizi
 - Python ile temel analizler
 - Görselleştirme örnekleri
-
-### Python Temel
-
-Veri analizi için gerekli Python temel bilgileri bu klasörde yer alır.  
-
-**Konular:**
-- Değişkenler, veri tipleri
-- Koşullar ve döngüler
-- Fonksiyonlar ve liste işlemleri
 
 ### Veri Bilimi Projeleri
 
