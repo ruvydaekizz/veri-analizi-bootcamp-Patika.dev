@@ -20,12 +20,6 @@ Bootcamp’in ikinci final projesidir. Rapor, ETRADE isimli örnek bir veri taba
 
 - İleri seviye analiz
 - Proje sunumu ve raporlama
-<img width="925" height="536" alt="1" src="https://github.com/user-attachments/assets/17c24436-3fc4-4737-91e9-32c218dcaf5b" />
-
--------
-<img width="936" height="535" alt="2" src="https://github.com/user-attachments/assets/23957fd1-5fa0-4a49-ac25-dc56042e58dc" />
-
-
 
 ### Bootcamp Haftalık Görevler
 
@@ -36,6 +30,15 @@ Haftalık verilen görev ve alıştırmaları içeren dosyaları içerir.
 - Eksik veri analizi
 - Python ile temel analizler
 - Görselleştirme örnekleri
+
+### Python Temel
+
+Veri analizi için gerekli Python temel bilgileri bu klasörde yer alır.  
+
+**Konular:**
+- Değişkenler, veri tipleri
+- Koşullar ve döngüler
+- Fonksiyonlar ve liste işlemleri
 
 ### Veri Bilimi Projeleri
 
@@ -69,3 +72,4 @@ Algoritma ve veri yapıları konularında temel uygulamaları içerir.
 
 🎓 Patika.dev x Kız Başına - Veri Analizi Bootcamp
 10 haftalık, uygulamalı ve proje tabanlı veri analizi eğitimi.
+
